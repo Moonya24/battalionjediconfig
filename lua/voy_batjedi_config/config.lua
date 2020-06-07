@@ -2,7 +2,7 @@ AddCSLuaFile()
 
 ANG_GM_Battalions = {}
 
-ANG_GM_Battalions_InviteSelf = true -- Allow players to invite themselves as Battalion Jedi (Mainly meant for debugging and testing)
+ANG_GM_Battalions_InviteSelf = false -- Allow players to invite themselves as Battalion Jedi (Mainly meant for debugging and testing)
 
 ANG_GM_Battalions_Main = {
 	["212th"] = { -- !batjedi_invite {name} {battalion}
